@@ -25,7 +25,7 @@ This MCP server enables AI assistants and automated systems to query AbuseIPDB's
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/{your-username}/mcp-abuseipdb.git
+git clone https://github.com/Salmanwz/mcp-abuseipdb.git
 cd mcp-abuseipdb
 ```
 
